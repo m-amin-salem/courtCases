@@ -1,6 +1,6 @@
 import express, { NextFunction, Request, Response } from 'express';
-import { CaseDto } from './src/case.dto.';
-import { getCases, setCounter, generateFxFileId, addNewCase } from './src/helpers'
+import { CaseDto } from './case.dto.';
+import { getCases, setCounter, generateFxFileId, addNewCase } from './helpers'
 
 const app = express();
 const port = 3000;

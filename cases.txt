@@ -1,0 +1,1 @@
+[{"customerName":"Ahmeddfd dfdf","startDate":"01-01-2024","isFinished":true,"fxFileId":"AhmeddfdDfdf-23-01"},{"customerName":"Ahmed","startDate":"01-01-2024","isFinished":true,"fxFileId":"Ahmed-23-02"}]
